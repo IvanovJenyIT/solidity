@@ -1,4 +1,4 @@
-import { loadFixture, ethers, expect } from "./setup";
+import { loadFixture, ethers, expect } from "../test/setup";
 
 describe("Interfece", function () {
   async function beforeEach() {
