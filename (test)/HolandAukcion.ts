@@ -1,4 +1,4 @@
-import { loadFixture, ethers, expect } from "./setup";
+import { loadFixture, ethers, expect } from "../test/setup";
 
 describe("HolandAukcion", function () {
   async function beforeEach() {
